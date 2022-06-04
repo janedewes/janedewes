@@ -3,7 +3,7 @@
 
 
 ### Hi there, Welcome to my profile! 👋
--  👩🏼‍💻 I'm currently learning Data Science and ML
+-  👩🏼‍💻
 - 🌱 AI Enthusiast 
 - 🤔 Exploring new technologies and developing data-driven solutions
 - 💻 In my spare time I enjoy learning Web and Mobile Development 📱
