@@ -8,7 +8,6 @@
 - 🤔 Exploring new technologies and developing data-driven solutions
 - 💻 In my spare time I enjoy learning Web and Mobile Development 📱
 - 👯 I'm looking to collaborate on GitHub because I believe that together we can do more
-- 👩🏼‍🏫 I'm constantly learning and improving my skills
 - ☕ I believe a perfect cup of coffee can be the ultimate solution for any stress 😄
 - 📫 How to reach me: 👇 
 
